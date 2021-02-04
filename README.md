@@ -19,13 +19,15 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack Web Developer 🚀 from India.
+Hi, I'm [Sobhan (my frends call me sobi)!](https://twitter.com/Sobi_1995), .I'm a web developer with dotnet core. I try to learn about programming and I really good feeling about it.
+I have a busy life but I like it.
+every morning I go to the gym at 6 o'clock, I want to continue this lifestyle until the end.  
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 👨🏽‍💻 My first priority is to learn English:;
 - 🌱 I’m currently learning Typescript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
