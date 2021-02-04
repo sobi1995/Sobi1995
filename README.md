@@ -33,9 +33,9 @@ every morning I go to the gym at 6 o'clock, I want to continue this lifestyle un
 
  
  
-- <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"></code>
-- <code><img height="20" src="https://w7.pngwing.com/pngs/870/475/png-transparent-angularjs-progressive-web-apps-npm-web-application-github-angle-triangle-logo.png"></code>
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+ <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"></code>
+ <code><img height="20" src="https://w7.pngwing.com/pngs/870/475/png-transparent-angularjs-progressive-web-apps-npm-web-application-github-angle-triangle-logo.png"></code>
+ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
