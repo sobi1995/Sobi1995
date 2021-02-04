@@ -29,9 +29,9 @@ every morning I go to the gym at 6 o'clock, I want to continue this lifestyle un
 **my favorite website :**
 
 **Languages and Tools:**  
-  [code-maze](https://code-maze.com/);
-  [newsinlevels](https://www.newsinlevels.com/);
-  [learngitbranching](https://learngitbranching.js.org/);
+  [code-maze](https://code-maze.com/):;
+  [newsinlevels](https://www.newsinlevels.com/):;
+  [learngitbranching](https://learngitbranching.js.org/):;
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
