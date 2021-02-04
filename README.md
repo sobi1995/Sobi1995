@@ -21,17 +21,15 @@ every morning I go to the gym at 6 o'clock, I want to continue this lifestyle un
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 My first priority is to learn English:;
-- 🌱 I’m currently learning Typescript; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+
+
 
 **my favorite website :**
 
 **Languages and Tools:**  
-  [code-maze](https://code-maze.com/):;
-  [newsinlevels](https://www.newsinlevels.com/):;
-  [learngitbranching](https://learngitbranching.js.org/):;
+ - [code-maze](https://code-maze.com/)
+ - [newsinlevels](https://www.newsinlevels.com/)
+ - [learngitbranching](https://learngitbranching.js.org/)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
