@@ -37,19 +37,6 @@ every morning I go to the gym at 6 o'clock, I want to continue this lifestyle un
  <code><img height="40" src="https://w7.pngwing.com/pngs/870/475/png-transparent-angularjs-progressive-web-apps-npm-web-application-github-angle-triangle-logo.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
- 
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  6,950 Karma Points           
-🌸  Completed 5 tasks today           
-✅  Completed 529 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 My GitHub Stats
