@@ -26,27 +26,18 @@ every morning I go to the gym at 6 o'clock, I want to continue this lifestyle un
 
 **my favorite website :**
 
-**Languages and Tools:**  
+
  - [code-maze](https://code-maze.com/)
  - [newsinlevels](https://www.newsinlevels.com/)
  - [learngitbranching](https://learngitbranching.js.org/)
 
  
- 
+ **Languages and Tools:**  
  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"></code>
  <code><img height="40" src="https://w7.pngwing.com/pngs/870/475/png-transparent-angularjs-progressive-web-apps-npm-web-application-github-angle-triangle-logo.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   6 hrs 58 mins   ███████████████████▓░░░░░   78.81 % 
-C++          47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-CSS          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-TypeScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-```
-<!--END_SECTION:waka-->
+ 
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
