@@ -30,6 +30,7 @@ every morning I go to the gym at 6 o'clock, I want to continue this lifestyle un
  - [code-maze](https://code-maze.com/)
  - [newsinlevels](https://www.newsinlevels.com/)
  - [learngitbranching](https://learngitbranching.js.org/)
+ - [dntips](https://www.dntips.ir/)
 
  
  **Languages and Tools:**  
