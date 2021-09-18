@@ -1,10 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-<a href="https://twitter.com/Sobi_1995">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=sobi1995)
 
 <a href="https://www.linkedin.com/in/sobi-mozafari-261993133/">
