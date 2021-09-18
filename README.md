@@ -3,13 +3,14 @@
 <a href="https://twitter.com/Sobi_1995">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=sobi1995)
+
 <a href="https://www.linkedin.com/in/sobi-mozafari-261993133/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
  
-
-![](https://visitor-badge.glitch.me/badge?page_id=sobi1995)
-
 <br />
 
 Hi, I'm [Sobhan (my frends call me sobi)!](https://twitter.com/Sobi_1995), .I'm a web developer with dotnet core. I try to learn about programming and I really good feeling about it.
