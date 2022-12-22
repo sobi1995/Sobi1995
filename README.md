@@ -11,7 +11,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=sobi1995)
 <br/>
 <a href="http://www.coffeete.ir/Sobhan">
-       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png?v=1" style="width:260px;" />
+       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
 <br />
 
