@@ -47,6 +47,3 @@ every morning I go to the gym at 6 o'clock, I want to continue this lifestyle un
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sobi1995&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
- 
-
-
