@@ -1,34 +1,103 @@
-👨‍💻 About Me
+🧑‍💻 SOBHAN.M | Software Developer
+public class Developer : IHuman
+{
+    public string Name => "Sobhan";
+    public string NickName => "Sobi";
+    public string Role => "Full Stack .NET Developer";
+    public string FavoriteDrink => "Coffee ☕";
 
-Hi! I'm Sobhan — but my friends call me Sobi 😄
-I'm a .NET Core Web Developer, passionate about building clean, scalable applications.
-I love learning new things, especially programming and English.
+    public string[] Skills => new[]
+    {
+        "C# / .NET Core", "Entity Framework", 
+        "SQL Server", "Angular", "Clean Architecture", 
+        "REST API", "Docker"
+    };
 
-I have a busy but enjoyable lifestyle —
-I hit the gym every morning at 6 AM, and I want to keep this habit forever 💪✨
+    public void DailyRoutine()
+    {
+        Console.WriteLine("Wake up at 6 AM 🏋️‍♂️");
+        Console.WriteLine("Gym time 💪");
+        Console.WriteLine("Code. Learn. Repeat. 👨‍💻");
+    }
+}
 
-<img align="right" alt="coding gif" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="300" />
-🧩 What I'm Currently Doing
+🔥 Who Am I?
+{
+  "name": "Sobhan",
+  "nickname": "Sobi",
+  "role": "Backend / Full-stack Developer",
+  "love": ["Coding", "Gym", "Learning English"],
+  "philosophy": "Build → Break → Fix → Learn → Repeat"
+}
 
-🔥 Focusing on improving my English
+🧬 Tech Stack (Powered by Objects)
+┌────────────────────────────────────────────────────┐
+│                 My Tech Toolbox 🔧                 │
+├────────────────────────────────────────────────────┤
+│  • C#                     • .NET Core              │
+│  • SQL Server             • Entity Framework       │
+│  • Angular                • JavaScript / TS        │
+│  • Clean Architecture     • Git / GitHub           │
+│  • Docker                 • Microservices (learning)│
+└────────────────────────────────────────────────────┘
 
-🧠 Sharpening my backend architecture skills
+🚀 My Dev Philosophy
+const life = {
+  code: () => console.log("Coding..."),
+  gym: () => console.log("Training..."),
+  sleep: () => console.log("Sleeping..."),
+  loop() { 
+      while(true) this.code(), this.gym(), this.sleep();
+  }
+};
 
-🎯 Learning clean coding, best practices, and software design
+life.loop();
 
-⚙️ Building real-world projects with .NET Core
+🎯 Goals I'm Working On
+List<string> goals2025 = new()
+{
+    "Master Clean Architecture",
+    "Become fluent in English",
+    "Build high-scale .NET services",
+    "Create open-source libraries",
+    "Contribute more on GitHub"
+};
 
-🛠️ Languages & Tools
-<p> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /> <img height="40" src="https://angular.io/assets/images/logos/angular/angular.svg" /> <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" /> <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" /> <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" /> <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" /> </p>
-☕ Support My Work
-<a href="http://www.coffeete.ir/Sobhan"> <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png?v=1" width="250" /> </a>
-🎮 Play a Game (Snake)
+🎮 A Tiny Console Game (For Fun!)
 
-(Yes, you can play directly in my GitHub profile!)
+(نمایشی و مخصوص پروفایل)
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game"/> </p>
+while(true)
+{
+    Console.Write("Guess the number (1-5): ");
+    int guess = int.Parse(Console.ReadLine());
+    int correct = new Random().Next(1,5);
+
+    if(guess == correct)
+        Console.WriteLine("🔥 Correct! You're a real programmer!");
+    else
+        Console.WriteLine($"❌ Nope! It was {correct}");
+}
+
+🧩 Snake Game (Animated on Your Profile)
+
+(این یکی خودکار روی گیت‌هاب اجرا میشه)
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sobi1995&show_icons=true&theme=tokyonight" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobi1995&layout=compact&theme=tokyonight" height="150" /> </p>
-✨ Fun Quote
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sobi1995&show_icons=true&theme=codeSTACKr" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobi1995&layout=compact&theme=codeSTACKr" height="160" /> </p>
+⚡ ASCII Card
+╔══════════════════════════════════╗
+║  Name:       SOBHAN (Sobi)       ║
+║  Position:   .NET Developer      ║
+║  Specialty:  Clean Backend Dev   ║
+║  Motto:      Keep Coding ⚡       ║
+╚══════════════════════════════════╝
 
-“Code. Train. Learn. Repeat.”
+🔗 Social Links
+
+<a href="https://twitter.com/Sobi_1995"><img width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/></a>
+<a href="https://www.linkedin.com/in/sobi-mozafari-261993133/"><img width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
+
+☕ Support Me
+<a href="http://www.coffeete.ir/Sobhan"> <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png?v=1" width="250" /> </a>
