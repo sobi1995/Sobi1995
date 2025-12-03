@@ -1,103 +1,61 @@
-🧑‍💻 SOBHAN.M | Software Developer
-public class Developer : IHuman
+<img src="https://i.imgur.com/GYl1ZJy.gif" width="40"/> Hi, I'm Sobhan (Sobi)
+<img src="https://i.imgur.com/s5uY1cB.gif" width="20"/> Full Stack .NET Developer • Gym Lover • Obsessed with Clean Code
+<p align="center"> <img src="https://i.imgur.com/rJFhS9S.gif" width="900"/> </p>
+🎨 About Me (Graphic Panel)
+<p align="center"> <img src="https://i.imgur.com/3EJQ5ch.png" width="500"> </p>
+🧠 My Developer Identity
+class Sobhan : Human, IDeveloper
 {
-    public string Name => "Sobhan";
-    public string NickName => "Sobi";
-    public string Role => "Full Stack .NET Developer";
-    public string FavoriteDrink => "Coffee ☕";
+    string Name = "Sobhan Mozafari";
+    string Nick = "Sobi";
+    string Role = ".NET Core Backend Developer";
+    string Mood = "Always Learning 🔥";
 
-    public string[] Skills => new[]
-    {
-        "C# / .NET Core", "Entity Framework", 
-        "SQL Server", "Angular", "Clean Architecture", 
-        "REST API", "Docker"
+    string[] SuperPowers = {
+        "C#",
+        ".NET Core",
+        "SQL Server",
+        "Angular",
+        "Clean Architecture",
+        "Docker",
+        "Problem Solving"
     };
 
-    public void DailyRoutine()
-    {
-        Console.WriteLine("Wake up at 6 AM 🏋️‍♂️");
-        Console.WriteLine("Gym time 💪");
-        Console.WriteLine("Code. Learn. Repeat. 👨‍💻");
+    void DailyLife() {
+        Gym(6AM);
+        Code();
+        Learn();
+        Repeat();
     }
 }
 
-🔥 Who Am I?
-{
-  "name": "Sobhan",
-  "nickname": "Sobi",
-  "role": "Backend / Full-stack Developer",
-  "love": ["Coding", "Gym", "Learning English"],
-  "philosophy": "Build → Break → Fix → Learn → Repeat"
-}
-
-🧬 Tech Stack (Powered by Objects)
-┌────────────────────────────────────────────────────┐
-│                 My Tech Toolbox 🔧                 │
-├────────────────────────────────────────────────────┤
-│  • C#                     • .NET Core              │
-│  • SQL Server             • Entity Framework       │
-│  • Angular                • JavaScript / TS        │
-│  • Clean Architecture     • Git / GitHub           │
-│  • Docker                 • Microservices (learning)│
-└────────────────────────────────────────────────────┘
-
-🚀 My Dev Philosophy
-const life = {
-  code: () => console.log("Coding..."),
-  gym: () => console.log("Training..."),
-  sleep: () => console.log("Sleeping..."),
-  loop() { 
-      while(true) this.code(), this.gym(), this.sleep();
-  }
+🧩 Tech Stack — Icon Grid
+<p align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,ts,html,css,git,github,docker,postgres,visualstudio,vscode&theme=dark" /> </p>
+⚙️ Skill Meter (Graphic Bars)
+<p align="center"> <img src="https://i.imgur.com/VYyxzpy.png" width="750"/> </p>
+🎯 Current Mission
+<p align="center"> <img src="https://i.imgur.com/0rlffJu.gif" width="300"/> </p>
+const Goals = {
+  english: "Get fluent ✨",
+  backend: "Master Clean Architecture",
+  openSource: "Publish useful .NET libraries",
+  lifestyle: "Gym everyday at 6 AM 💪"
 };
 
-life.loop();
+🎮 Interactive Snake Game
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/> </p>
+🚀 GitHub Stats (Animated Theme)
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=sobi1995&show_icons=true&theme=react&bg_color=0D1117" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobi1995&layout=compact&theme=react&bg_color=0D1117" /> </p>
+☕ Support My Work
+<p align="center"> <a href="http://www.coffeete.ir/Sobhan"> <img src="https://i.imgur.com/8fGm4hA.png" width="260"> </a> </p>
+🔗 Connect With Me
+<p align="center"> <a href="https://twitter.com/Sobi_1995"><img width="40" src="https://i.imgur.com/As6U0O9.png"></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/sobi-mozafari-261993133/"><img width="40" src="https://i.imgur.com/7TQ6v8A.png"></a> </p>
+🖥️ Terminal Intro (Graphic Mode)
+> whoami
+  🔹 Name: Sobhan (Sobi)
+  🔹 Role: Full Stack .NET Developer
+  🔹 Location: Inside Visual Studio 😎
+  🔹 Status: Actively learning & building stuff
 
-🎯 Goals I'm Working On
-List<string> goals2025 = new()
-{
-    "Master Clean Architecture",
-    "Become fluent in English",
-    "Build high-scale .NET services",
-    "Create open-source libraries",
-    "Contribute more on GitHub"
-};
-
-🎮 A Tiny Console Game (For Fun!)
-
-(نمایشی و مخصوص پروفایل)
-
-while(true)
-{
-    Console.Write("Guess the number (1-5): ");
-    int guess = int.Parse(Console.ReadLine());
-    int correct = new Random().Next(1,5);
-
-    if(guess == correct)
-        Console.WriteLine("🔥 Correct! You're a real programmer!");
-    else
-        Console.WriteLine($"❌ Nope! It was {correct}");
-}
-
-🧩 Snake Game (Animated on Your Profile)
-
-(این یکی خودکار روی گیت‌هاب اجرا میشه)
-
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sobi1995&show_icons=true&theme=codeSTACKr" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobi1995&layout=compact&theme=codeSTACKr" height="160" /> </p>
-⚡ ASCII Card
-╔══════════════════════════════════╗
-║  Name:       SOBHAN (Sobi)       ║
-║  Position:   .NET Developer      ║
-║  Specialty:  Clean Backend Dev   ║
-║  Motto:      Keep Coding ⚡       ║
-╚══════════════════════════════════╝
-
-🔗 Social Links
-
-<a href="https://twitter.com/Sobi_1995"><img width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/></a>
-<a href="https://www.linkedin.com/in/sobi-mozafari-261993133/"><img width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
-
-☕ Support Me
-<a href="http://www.coffeete.ir/Sobhan"> <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png?v=1" width="250" /> </a>
+💥 Final Touch: Hologram Style Banner
+<p align="center"> <img src="https://i.imgur.com/X4trG4x.gif" width="850"/> </p>
